@@ -3,8 +3,8 @@ import Button from './Button';
 import PopupForm from './PopupForm';
 
 const Footer: React.FC = () => {
-  const phoneNumber = '+91 7009244891'; // Replace with your phone number
-  const emailAddress = 'priyankasoni.cs@gmail.com'; // Replace with your email address
+  const phoneNumber = '+91 6283205418'; // Replace with your phone number
+  const emailAddress = 'vaasubansal1712@gmail.com'; // Replace with your email address
 
   return (
     <footer className="poppins-semibold footer">
@@ -24,7 +24,7 @@ const Footer: React.FC = () => {
           title="Contact Us"
           icon="/whatsapp.png"
           variant="btn_dark_green"
-          href="https://wa.me/7009244891
+          href="https://wa.me/6283205418
           "
         />
       </div>

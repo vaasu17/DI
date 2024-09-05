@@ -5,7 +5,7 @@ const Banner = () => {
     <div className="poppins-semibold banner-container">
       <div className="top-row">
         <div className="contact-info">
-          📞 +91 7009244891
+          📞 +91 6283205418
         </div>
         <div className="registration-info">
         PBRERA-WPRR-MV81-CC0889

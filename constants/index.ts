@@ -1,7 +1,7 @@
 // NAVIGATION
 export const NAV_LINKS = [
-  { href: '/', key: 'phone', label: '📞7009244891' },
-  { href: '/', key: 'email', label: '✉️priyankasoni.cs@gmail.com' },
+  { href: '/', key: 'phone', label: '📞6283205418' },
+  { href: '/', key: 'email', label: '✉️vaasubansal1712@gmail.com' },
   { href: '#DreamscapeInn', key: 'DreamscapeInn', label: 'Dreamscape Inn' },
   { href: '#loc', key: 'Visit Us ', label: 'Visit Us' },
   { href: '#form', key: 'contact_us', label: 'Contact Us' },

@@ -39,7 +39,7 @@ const Navbar: React.FC = () => {
           title="Contact Us"
           icon="/whatsapp.png"
           variant="btn_dark_green"
-          href="https://wa.me/7009244891"
+          href="https://wa.me/6283205418"
         />
       </div>
       <div className="dropdown-wrapper inline-block cursor-pointer lg:hidden" onClick={toggleDropdown}>
